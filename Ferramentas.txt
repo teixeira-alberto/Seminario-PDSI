@@ -1,0 +1,9 @@
+
+torch
+torchvision
+torchaudio
+detectron2
+opencv-python-headless
+numpy
+matplotlib
+scikit-video
